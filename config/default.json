@@ -1,0 +1,6 @@
+{
+    "server_port": 3000,
+    "server_host": "localhost",
+    "mongoDBURL": "mongodb://192.168.3.205:27017/myLocalDB",
+    "redisURL" : "192.168.3.205"
+}
